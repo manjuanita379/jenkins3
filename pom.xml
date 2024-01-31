@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>manjuanita379</name>
-	      <url>http://54.177.189.152:8081/repository/maven-rel/</url>
+	      <url>http://54.241.122.42:8081/repository/mv-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>manjuanita379 </name>
-	      <url>http://54.177.189.152:8081/repository/maven-snapshot/</url>
+	      <url>http://54.241.122.42:8081/repository/mv-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
